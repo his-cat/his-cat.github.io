@@ -4,11 +4,30 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2021/02/08/hello-world/"/>
-    <url>/2021/02/08/hello-world/</url>
+    <title>一只鸽子的自白</title>
+    <link href="/blog/%E4%B8%80%E5%8F%AA%E9%B8%BD%E5%AD%90%E7%9A%84%E8%87%AA%E7%99%BD/"/>
+    <url>/blog/%E4%B8%80%E5%8F%AA%E9%B8%BD%E5%AD%90%E7%9A%84%E8%87%AA%E7%99%BD/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></div></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre><code class="hljs bash">$ hexo server<br></code></pre></div></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre><code class="hljs bash">$ hexo generate<br></code></pre></div></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></div></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="题记"><a href="#题记" class="headerlink" title="题记"></a>题记</h3><figure class="highlight c"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre><code class="hljs c"><span class="hljs-meta">#<span class="hljs-meta-keyword">include</span> <span class="hljs-meta-string">&lt;stdio.h&gt;</span></span><br><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span><br><span class="hljs-function"></span>&#123;<br>    <span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;就一只鸽子能有什么坏心思呢，就是不想写作业，更博客罢了&quot;</span>);<br>    <span class="hljs-keyword">return</span> <span class="hljs-number">0</span>;<br>&#125;<br></code></pre></div></td></tr></table></figure><h3 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h3><p>鸽子：“鸽”谐音“搁”，现多用于UP、博主等自媒体因为一些原因拖更，也可用来形容学生作业一直拖，嗯，就是我。</p><p>这种说法最早可能出现于UP主@老师好我叫何同学 的视频《一只鸽子的自白》</p><h3 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h3><p>嗯…先搁着，有空再更。[2.11]</p><p>嗯，大年初二，接着写。[2.13]</p><p>嗯，都要开学了，还没写，算了，下次一定。[2.28]</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>鸽子</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/blog/hello-world/"/>
+    <url>/blog/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Hello world</p>]]></content>
     
     
     
